@@ -7,5 +7,3 @@ for i in fruits:
 
 for i in fruits:
     print (i)
-    
-clear    
