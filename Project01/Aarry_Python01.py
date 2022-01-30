@@ -33,3 +33,7 @@ arr.remove(1)
 print ("The array after removing is : ", end ="")
 for i in range (0, 3):
 	print (arr[i], end =" ")
+
+#END#
+################
+
