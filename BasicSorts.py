@@ -5,7 +5,6 @@ numbers = [1, 3, 4, 2, 5, 7]
 numbers.sort()
   
 print(numbers)
-  
 # List of Floating point numbers
 decimalnumber = [2.01, 2.00, 3.67, 3.28, 1.68]
   
@@ -22,3 +21,4 @@ words.sort()
  
 print(words)
 # END #
+print(words)
