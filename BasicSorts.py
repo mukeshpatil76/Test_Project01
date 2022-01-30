@@ -1,5 +1,5 @@
 # List of Integers
-numbers = [1, 3, 4, 2]
+numbers = [1, 3, 4, 2, 5, 7]
   
 # Sorting list of Integers
 numbers.sort()
