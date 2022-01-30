@@ -20,3 +20,5 @@ words = ["Geeks", "For", "Geeks"]
 words.sort()
  
 print(words)
+
+print(words)
