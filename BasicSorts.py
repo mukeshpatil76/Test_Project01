@@ -21,4 +21,3 @@ words.sort()
  
 print(words)
 # END #
-print(words)
